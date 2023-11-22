@@ -1,5 +1,7 @@
 # Why is this project important?
 
+This project aims to improve the user experience by providing audio functionality that allows users to play and pause audio files seamlessly. By incorporating this feature, you can enhance the overall interactivity and engagement of your web application
+
 ### First get all audio files
 ``` Js
   const audioElements = document.querySelectorAll('.music');
